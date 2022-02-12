@@ -5,6 +5,8 @@
 npm install
 ```
 
+MAKE SURE YOU CHANGE THE URL IN THE .env.production file!
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
