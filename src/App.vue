@@ -1,5 +1,9 @@
 <template>
   <div id="app">
+    <img
+      src="https://media2.giphy.com/media/12imXZa2uBqf28/giphy.gif?cid=ecf05e47jd7lx1kp5zbgmrgnpg6jx5pr40n15otrbuhql8yp&rid=giphy.gif&ct=g"
+      alt="Fun Giphy"
+    />
     <h1>lines Gallore!</h1>
     <form ref="line_form" action="javascript:void(0)">
       <input ref="line_content" type="text" placeholder="Content" />
